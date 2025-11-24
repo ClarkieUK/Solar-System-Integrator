@@ -1,0 +1,11 @@
+#########################
+
+z is out of the screen, x is right, and y is up. (OpenGL)
+
+#########################
+
+python -m cProfile -o debug.dat main.py
+
+snakeviz debug.dat
+
+########################
