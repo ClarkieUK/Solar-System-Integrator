@@ -20,8 +20,8 @@ The result is an interactive tool that simulates orbital mechanics and visualize
 ## Showcase
 
 <p align="center" width="100%">
-    <img width="30%" src="images/projectdemo.PNG"> 
-    <img width="30%" src="images/jupitercloseup.PNG"> 
+    <img width="45%" src="images/projectdemo.PNG"> 
+    <img width="45%" src="images/jupitercloseup.PNG"> 
 </p>
 
 ## Features
