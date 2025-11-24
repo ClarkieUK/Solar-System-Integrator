@@ -21,7 +21,7 @@ The result is an interactive tool that simulates orbital mechanics and visualize
 
 <p align="center" width="100%">
     <img width="30%" src="images/projectdemo.PNG"> 
-    <img width="35%" src="images/lambertsolutions.PNG"> 
+    <img width="30%" src="images/jupitercloseup.PNG"> 
 </p>
 
 ## Features
@@ -87,6 +87,7 @@ The result is an interactive tool that simulates orbital mechanics and visualize
   - [Numerical Considerations](#numerical-considerations)
   - [Possible Future Improvements](#possible-future-improvements)
   - [Referenced Methods / Data](#referenced-methods--data)
+  - [Dependencies](#dependencies)
   - [License](#license)
 
 <!-- /code_chunk_output -->
