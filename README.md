@@ -1,6 +1,28 @@
 
 # Solar System N-Body Simulation & Transfer Orbit Planner
 
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+
+<!-- code_chunk_output -->
+
+- [Solar System N-Body Simulation & Transfer Orbit Planner](#solar-system-n-body-simulation--transfer-orbit-planner)
+  - [Showcase](#showcase)
+  - [Features](#features)
+    - [**N-Body Physics**](#n-body-physics)
+    - [**Interplanetary Transfer Planning**](#interplanetary-transfer-planning)
+    - [**Procedural Ephemerides**](#procedural-ephemerides)
+    - [**OpenGL Visualization**](#opengl-visualization)
+    - [**Time Management**](#time-management)
+  - [Controls](#controls)
+  - [Project Structure](#project-structure)
+  - [Numerical Considerations](#numerical-considerations)
+  - [Possible Future Improvements](#possible-future-improvements)
+  - [Referenced Methods / Data](#referenced-methods--data)
+  - [Dependencies](#dependencies)
+  - [License](#license)
+
+<!-- /code_chunk_output -->
+
 This project is a real-time 3D N-body simulation of the inner Solar System with an integrated Lambert transfer solver for launching a spacecraft between bodies.  
 It combines:
 
@@ -70,28 +92,6 @@ The result is an interactive tool that simulates orbital mechanics and visualize
 | <kbd>**Esc**</kbd> | Save integration data & exit |
 
 ---
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
-
-<!-- code_chunk_output -->
-
-- [Solar System N-Body Simulation & Transfer Orbit Planner](#solar-system-n-body-simulation--transfer-orbit-planner)
-  - [Showcase](#showcase)
-  - [Features](#features)
-    - [**N-Body Physics**](#n-body-physics)
-    - [**Interplanetary Transfer Planning**](#interplanetary-transfer-planning)
-    - [**Procedural Ephemerides**](#procedural-ephemerides)
-    - [**OpenGL Visualization**](#opengl-visualization)
-    - [**Time Management**](#time-management)
-  - [Controls](#controls)
-  - [Project Structure](#project-structure)
-  - [Numerical Considerations](#numerical-considerations)
-  - [Possible Future Improvements](#possible-future-improvements)
-  - [Referenced Methods / Data](#referenced-methods--data)
-  - [Dependencies](#dependencies)
-  - [License](#license)
-
-<!-- /code_chunk_output -->
-
 
 ##  Project Structure
 
